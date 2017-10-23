@@ -6,6 +6,11 @@ a {
 	color: #2196f3 !important;
 }
 
+.books {
+	width: 800px;
+	margin: 0 auto;
+}
+
 .book {
 	float: right;
 	margin: 5px;
